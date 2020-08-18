@@ -41,4 +41,3 @@ if __name__=="__main__":
 
 
 
-  Automation script which fetch URL from amazon.in using beautiful soap

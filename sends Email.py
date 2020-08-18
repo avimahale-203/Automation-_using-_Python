@@ -57,6 +57,3 @@ main()
 
 
 
-
-
-Automation script which sends Email through the python script
